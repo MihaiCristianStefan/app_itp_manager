@@ -1,0 +1,20 @@
+{
+    "sendSMS": "Send SMS",
+    "search": "Search",
+    "createCustomer": "Create customer",
+    "editCustomer": "Edit customer",
+    "name": "Name",
+    "phone": "Phone",
+    "carPlates": "Car plates",
+    "lastITP": "Last ITP",
+    "nextITP": "Next ITP",
+    "sixMonths": "6 months",
+    "oneYear": "1 year",
+    "twoYears": "2 years",
+    "cancel": "Cancel",
+    "save": "Save",
+    "delete": "Delete",
+    "update": "Update",
+    "wrongFormat": "Wrong format",
+    "snackBarMsg": "Sent SMS {SMS}"
+}

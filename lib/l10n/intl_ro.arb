@@ -1,0 +1,20 @@
+{
+    "sendSMS": "Trimite SMS",
+    "search": "Cauta",
+    "createCustomer": "Utilizator nou",
+    "editCustomer": "Modifica utilizatorul",
+    "name": "Nume",
+    "phone": "Telefon",
+    "carPlates": "Nr. inmatriculare",
+    "lastITP": "Ultimul ITP",
+    "nextITP": "Urmatorul ITP",
+    "sixMonths": "6 luni",
+    "oneYear": "1 an",
+    "twoYears": "2 ani",
+    "cancel": "Anuleaza",
+    "save": "Salveaza",
+    "delete": "Sterge",
+    "update": "Update",
+    "wrongFormat": "Format gresit",
+    "snackBarMsg": "SMS trimise {SMS}"
+}
